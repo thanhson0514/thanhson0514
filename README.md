@@ -2,8 +2,12 @@
 
 <!--
 **thanhson0514/thanhson0514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+// https://github-readme-stats.vercel.app/api?username=thanhson0514&show_icons=true&&theme=cobalt
 Here are some ideas to get you started:
+
+![Thanh Son's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhson0514)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhson0514&theme=dark&repo=Scheduler-and-Api-TLU)](https://github.com/thanhson0514/Scheduler-and-Api-TLU)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
