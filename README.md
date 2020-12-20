@@ -51,6 +51,9 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-fff?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Linux](https://img.shields.io/badge/-Linux-fff?style=flat-square&logo=linux&logoColor=000)
 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-fff?style=flat-square&logo=Raspberry-Pi&logoColor=C51A4A)
+![Arduino](https://img.shields.io/badge/-Arduino-fff?style=flat-square&logo=Arduino&logoColor=00979D)
+
 ---
 
 <p align="center">
