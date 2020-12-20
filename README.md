@@ -28,7 +28,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-fff?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=flat-square&logo=JavaScript&logoColor=ddc508)
-![Java](https://img.shields.io/badge/-Java-fff?style=flat-square&logo=Java&logoColor=007396)
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&style=flat-square&logo=node.js)
 ![C++](https://img.shields.io/badge/-C++-fff?style=flat-square&logo=c%2b%2b&logoColor=00599C)
 
