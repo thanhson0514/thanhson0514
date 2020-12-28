@@ -1,6 +1,6 @@
-# Hello World!
+# Hello World, I'm Son !! 👋
 
-<img align="center" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="header">
+<img align="center" src="https://raw.githubusercontent.com/thanhson0514/thanhson0514/master/giphy.gif" alt="header" height="420" width="90%">
 
 ---
 
