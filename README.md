@@ -30,19 +30,13 @@
 ![Python](https://img.shields.io/badge/-Python-fff?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=flat-square&logo=JavaScript&logoColor=ddc508)
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&style=flat-square&logo=node.js)
-![C++](https://img.shields.io/badge/-C++-fff?style=flat-square&logo=c%2b%2b&logoColor=00599C)
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-fff?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-fff?style=flat-square&logo=css3&logoColor=1572B6)
 
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat-square&logo=bootstrap&logoColor=563D7C)
 ![React](https://img.shields.io/badge/-React-fff?style=flat-square&logo=React)
-![Sass](https://img.shields.io/badge/-Sass-fff?style=flat-square&logo=sass)
 ![](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square)
-![Flask](https://img.shields.io/badge/-Flask-fff?style=flat-square&logo=flask&logoColor=006400)
-
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?style=flat-square&logo=PostgreSQL&logoColor=336791)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-fff?style=flat-square&logo=mongodb)
@@ -55,10 +49,8 @@
 
 ![Heroku](https://img.shields.io/badge/-Heroku-fff?style=flat-square&logo=heroku&logoColor=%23CC6699)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-fff?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-![Linux](https://img.shields.io/badge/-Linux-fff?style=flat-square&logo=linux&logoColor=000)
+![Linux](https://img.shields.io/badge/-Docker-fff?style=flat-square&logo=docker&logoColor=1af)
 
-
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-fff?style=flat-square&logo=Raspberry-Pi&logoColor=C51A4A)
 ![Arduino](https://img.shields.io/badge/-Arduino-fff?style=flat-square&logo=Arduino&logoColor=00979D)
 
 ---
